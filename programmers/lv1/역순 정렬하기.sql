@@ -1,0 +1,6 @@
+--프로그래머스 문제 5-9--
+--https://school.programmers.co.kr/learn/courses/30/lessons/59035--
+
+SELECT NAME, DATETIME
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID DESC
